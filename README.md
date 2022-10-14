@@ -1,4 +1,4 @@
-# Xposed game mob file with 《`DeathRun Portable`》
+# Xposed game mob file with `DeathRun Portable`
 
              .o oOOOOOOOo                                            OOOo
              Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
